@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fpd3e5.github.io/al-folio/sitemap.xml
+Sitemap: https://fpd3e5.github.io/test-al-folio/sitemap.xml
